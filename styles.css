@@ -222,20 +222,24 @@ div.background h4 {
     font-size: 1rem;
     letter-spacing: 2px;
     text-transform: uppercase;
+    ;
 }
 
 div.background p {
+    clear: both;
     color: #A6A5AA;
     padding-left: 2rem;
     font-size: 0.8rem;
     letter-spacing: 2px;
+    word-wrap: break-word;
+    
 }
 
 div.hero-background-pos {
     
     position: absolute;
-    right: 0px;
-    left: 66%;
+    right:50px;
+    left: 72%;
     background: #fff;
     width: 140px;
     height: 140px;
@@ -517,4 +521,8 @@ div.footer h6 {
 div.footer .footer-textarea{
 
 width: 100%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3a8febc (modified files)
