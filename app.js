@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 const navSlide = () => {
     const burger = document.querySelector('.burger');
     const nav = document.querySelector('.nav-links');
@@ -21,6 +22,8 @@ const navSlide = () => {
 }
 navSlide();
 =======
+=======
+>>>>>>> 3a8febc3dbe3cd029dece371d6bebe97283f96f6
 const navSlide = () => {
     const burger = document.querySelector('.burger');
     const nav = document.querySelector('.nav-links');
@@ -43,4 +46,7 @@ const navSlide = () => {
 }
 navSlide();
 
+<<<<<<< HEAD
 >>>>>>> 3a8febc (modified files)
+=======
+>>>>>>> 3a8febc3dbe3cd029dece371d6bebe97283f96f6
